@@ -124,8 +124,8 @@
   background-color: white;
   border: none; }
 .chart-page .button {
-  background-color: #f0f0f0;
-  border-color: #f0f0f0;
+  background-color: #FFF;
+  border-color: #FFF;
 }
 .chart-page .button.selected, .chart-page .button.active {
   background-color:rgba(53,116,250,0.12)!important; }
@@ -138,7 +138,7 @@
   padding: 0 5px;
 }
 .chart-page .header-chart-panel .group .button.selected{
-  background-color:#f0f0f0!important;
+  background-color:#FFF !important;
   color: #333!important;
   font-weight: bold;
 }
@@ -168,7 +168,7 @@
 }
 
 .header-chart-panel-sizer {
-  background: #f0f0f0;
+  background: #FFF;
 }
 
 .header-chart-panel .group {
